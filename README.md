@@ -1,5 +1,5 @@
 # Instacart-Basket-Analysis-Prediction
-![Fig1](https://github.com/hua-zeng/Instacart-Basket-Analysis-Prediction/blob/main/fig1.jpg)
+
 Figure 1 histogram shows how many orders placed by each of the customers. Clearly, most of the customers placed <=5 orders. 
 
 ![Fig2](https://github.com/hua-zeng/Instacart-Basket-Analysis-Prediction/blob/main/fig2.jpg)
