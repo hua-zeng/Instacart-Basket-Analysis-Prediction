@@ -3,8 +3,7 @@
 
 Figure 1 histogram shows how many orders placed by each of the customers. Clearly, most of the customers placed <=5 orders. 
 
-![Fig2](https://github.com/hua-zeng/Instacart-Basket-Analysis-Prediction/blob/main/fig2.jpg)
-
+![Fig2](https://github.com/hua-zeng/Instacart-Basket-Analysis-Prediction/blob/main/fig2.JPG)
 Figure 2 indicates that the center of the histogram is around 10 products in the order. The distribution of number products for each order is right skewed. 
 
 ![Fig3](https://github.com/hua-zeng/Instacart-Basket-Analysis-Prediction/blob/main/fig3.jpg)
